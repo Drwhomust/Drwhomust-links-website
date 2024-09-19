@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a:link {
+  color: rgb(85,66,245);
+  text-align: center;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+  text-align: center;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(23,131,232);
+  text-align: center;
+}
