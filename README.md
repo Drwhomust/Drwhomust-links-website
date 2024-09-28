@@ -1,6 +1,6 @@
 # Drwhomust's Website
-This is my own person website for posting links to stuff i make online and having a blog to talk about stuff i want to say!
-I want to make this website open soruce on Github so people can use my website as a templete for people to learn basic HTML
+This is my own person website for posting links to stuff i make online and having a blog to talk about stuff i want to say and other stuff.
+I want to make this website open soruce on Github so people can use my website as a templete for people to learn basic HTML!
 You can vist the website [here](https://drwhomust.neocities.org/)
 
 # Can I copy it
