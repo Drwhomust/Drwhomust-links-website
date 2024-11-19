@@ -1,0 +1,14 @@
+# images
+*.png
+*.jpg
+*.gif
+
+# video and auido
+*.mp3
+*.mp4
+*.ogg
+
+# code
+*.js
+*.css
+*.txt
