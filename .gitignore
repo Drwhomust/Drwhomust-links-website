@@ -12,3 +12,6 @@
 *.js
 *.css
 *.txt
+*.cs
+*.cpp
+*.lua
