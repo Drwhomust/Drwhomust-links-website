@@ -1,23 +1,23 @@
 body {
-  background-color: #2b2b2b;
+  background-color: black;
   color: white;
   font-family: sans-serif;
   text-align: center;
 }
 
 a:link {
-  color: rgb(85,66,245);
+  color: #ad03fc;
   text-align: center;
 }
 
 /* visited link */
 a:visited {
-  color: green;
+  color: #5465ff;
   text-align: center;
 }
 
 /* mouse over link */
 a:hover {
-  color: rgb(23,131,232);
+  color: #570080;
   text-align: center;
 }
