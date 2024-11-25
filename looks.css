@@ -21,3 +21,7 @@ a:hover {
   color: #570080;
   text-align: center;
 }
+
+p [
+  font-size: 25px;
+]
