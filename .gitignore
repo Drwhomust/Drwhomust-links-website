@@ -1,6 +1,4 @@
 # images
-*.png
-*.jpg
 *.gif
 
 # video and auido
@@ -10,7 +8,6 @@
 
 # code
 *.js
-*.css
 *.txt
 *.cs
 *.cpp
