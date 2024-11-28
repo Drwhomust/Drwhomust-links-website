@@ -1,11 +1,6 @@
 # images
 *.gif
 
-# video and auido
-*.mp3
-*.mp4
-*.ogg
-
 # code
 *.js
 *.txt
