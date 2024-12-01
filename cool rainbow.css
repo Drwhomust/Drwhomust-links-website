@@ -5,20 +5,3 @@ body {
   text-align: center;
   font-size: 24px;
 }
-
-a:link {
-  color: #ad03fc;
-  text-align: center;
-}
-
-/* visited link */
-a:visited {
-  color: #5465ff;
-  text-align: center;
-}
-
-/* mouse over link */
-a:hover {
-  color: #570080;
-  text-align: center;
-}
