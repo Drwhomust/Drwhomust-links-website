@@ -23,3 +23,4 @@ Gemfile.lock
 *.cs
 *.cpp
 *.lua
+.DS_Store
