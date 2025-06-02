@@ -8,5 +8,5 @@ YES! Please do and use my website's code as a base for template for your own web
 help you learn HTML and CSS! Just make sure you credit me and don't use my website as a scam.
 
 # Is this real?
-Yes, this website is my offical website. You can visit it [here](https://nightcrawcode.github.io/Drwhomust-links-website/) and you can check my socials and they all will link back to this page.
+Yes, this website is my offical website. You can visit it [here](https://drwhomust.xyz/) and you can check my socials and they all will link back to this page.
 The Github pages is the offical one from Drwhomust. Anything else might be a scam so please be carful and always check the URL!
